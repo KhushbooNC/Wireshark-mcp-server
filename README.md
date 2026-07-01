@@ -123,7 +123,8 @@ tshark -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/KK-LogicWorks/Wireshark-mcp-server.git
+git clone https://github.com/KhushbooNC/Wireshark-mcp-server.git
+
 
 cd Wireshark-mcp-server
 ```
